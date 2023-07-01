@@ -1,2 +1,2 @@
 # Activitate_Cercetare
- Proiectele privind activitatea de cercetare respectiv Inteligenta si viziune artificiala.
+ Proiectele privind activitatea de cercetare respectiv Inteligenta si viziune artificiala pentru master.
